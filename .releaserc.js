@@ -24,6 +24,7 @@ module.exports = {
     '@semantic-release/release-notes-generator',
     './scripts/semantic-release-add-peer-dependency.js',
     './scripts/semantic-release-set-runtime-version.js',
+    './scripts/semantic-release-rename-packages-for-test.js',
     '@semantic-release/github',
     [
       '@amanda-mitchell/semantic-release-npm-multiple',
